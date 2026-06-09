@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.npmjs.com)",
+      "Bash(npx uipro-cli@latest init --ai claude --global)",
+      "Bash(npx uipro-cli@latest --help)"
+    ]
+  }
+}
